@@ -1,2 +1,3 @@
-# rtb-server-examples
-RTB Server examples for test
+# openrtb-server-examples
+
+OpenRTB Server examples for test
