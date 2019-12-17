@@ -1,0 +1,10 @@
+{
+  "native" : {
+     "request": [],  // [String , 필수 사항]
+     "ver": "",    // [String, 옵션 사항] 
+     "api": [],    // [Integer Array] 퍼블리셔가 지원하는 API프레임워크 목록(VPAID, MRAID...)
+     "battr": [],  // [Integer Array] 게재중인 광고 소재 속성 차단(오디오광고, 배너 내 동영상광고...)
+     "ext": ""   // [Object]
+ 
+  }
+ }
